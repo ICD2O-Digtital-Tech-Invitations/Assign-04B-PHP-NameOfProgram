@@ -1,4 +1,4 @@
-# ICS2O Unit #X-YY
+# Assign-04B-PHP-NameOfProgram
 
 [![Mr Coxall's Super Linter](https://github.com/ICD2O-Digtital-Tech-Invitations/Assign-04B-PHP-NameOfProgram/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICD2O-Digtital-Tech-Invitations/Assign-04B-PHP-NameOfProgram/actions)
 
